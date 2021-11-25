@@ -17,8 +17,7 @@ Respecto al cruce que se hizó de los grupos por sexo, cabe mencionar que, si bi
   
 El gráfico del nivel educativo es tajante: en la composición de los ocupados plenos prevalecen los niveles educativos más altos por sobre los más bajos, y en la composición de subocupados se da la situación inversa. 
 
-from IPython.display import Image
-Image("IMÁGENES/25-11.png")
+![alt text](25-11.png "Title")
 
 Además, los subocupados tienden a ser más jóvenes que los ocupados plenos: la distribución de los subocupados es una distribución más sesgada hacia la izquierda. Esto no es casual, como Castel (1997) señala, la inserción laboral de los jóvenes es cada vez más errática y dificil: las trayectorias contemplan, en sus inicios, cada vez más situaciones de precarización.
   
