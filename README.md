@@ -17,13 +17,18 @@ Respecto al cruce que se hizó de los grupos por sexo, cabe mencionar que, si bi
   
 El gráfico del nivel educativo es tajante: en la composición de los ocupados plenos prevalecen los niveles educativos más altos por sobre los más bajos, y en la composición de subocupados se da la situación inversa. 
 
-                                                ![Optional Text](IMÁGENES/25-11.png)
+![Optional Text](IMÁGENES/25-11.png)
 
 Además, los subocupados tienden a ser más jóvenes que los ocupados plenos: la distribución de los subocupados es una distribución más sesgada hacia la izquierda. Esto no es casual, como Castel (1997) señala, la inserción laboral de los jóvenes es cada vez más errática y dificil: las trayectorias contemplan, en sus inicios, cada vez más situaciones de precarización.
   
 Sobre ingresos creo, sobre todo, interesante el boxplot que considera el ingreso familiar (porque que las personas que trabajan menos horas van a tener menos ingresos es medio obvio). Pero lo interesante de analizar el ingreso familiar es ver cómo esos ingresos más bajos no pueden ser compensados en el hogar por alguna otra persona que gané (y probablemente trabaje) más. Es decir, los subocupados suelen habitar hogares pobres, qué situación se da primero es un punto que excede este análsis pero una punta ineludible para seguir pensando: ¿las personas que habitan hogares pobres tienen más probabilidades de ser subocupadas? 
   
-Si les descuentan o no jubilación fue elegido como indicador proxy de si están en una relación de dependencia formal o informal. En el grupo de subocupados solamente un 13,8% está, siguiendo la línea de análisis propuesta, en relación de dependencia formal, casi la mitad en informal y (detalle interesante) 42% de los preguntados no calificaban para responder la pregunta (es decir, no eran personas a las que está la posibilidad en su trabajo de que un otro le descuente aportes para la jubilación). Esto llevó al análisis de las categorías ocupacionales, ¿quiénes son los subocupados? Si bien muchos son obreros y empleados, el 40% (número elevado en comparación con los ocupados plenos) son cuentapropistas. Ya lo advertía Villareal (1985), la transformación de la estructura productiva realizada durante la última dictadura militar trajo aparejada un aumento de los trabajadores independientes en detrimento del sector asalariado industrial formal. Este proceso produjo, como evidencia el último cuadro, una vinculación entre el trabajo cuentapropista independiente y la precarización laboral; los trabajadores independientes trabajan a pequeña escala, con escasos recursos (y muchos menos de 35 horas semanales).
+Si les descuentan o no jubilación fue elegido como indicador proxy de si están en una relación de dependencia formal o informal. En el grupo de subocupados solamente un 13,8% está, siguiendo la línea de análisis propuesta, en relación de dependencia formal, casi la mitad en informal y (detalle interesante) 42% de los preguntados no calificaban para responder la pregunta (es decir, no eran personas a las que está la posibilidad en su trabajo de que un otro le descuente aportes para la jubilación). 
+
+![Optional Text](IMÁGENES/jub.png)
+
+Esto llevó al análisis de las categorías ocupacionales, ¿quiénes son los subocupados? Si bien muchos son obreros y empleados, el 40% (número elevado en comparación con los ocupados plenos) son cuentapropistas. Ya lo advertía Villareal (1985), la transformación de la estructura productiva realizada durante la última dictadura militar trajo aparejada un aumento de los trabajadores independientes en detrimento del sector asalariado industrial formal. Este proceso produjo, como evidencia el último cuadro, una vinculación entre el trabajo cuentapropista independiente y la precarización laboral; los trabajadores independientes trabajan a pequeña escala, con escasos recursos (y muchos menos de 35 horas semanales).
+
 
 
 
