@@ -10,7 +10,7 @@ La EPH es una encuesta con preguntas referidas al mercado laboral y a las condic
 Para el análisis se necesita la base de datos antes señalada e importar las librerias nunpy, pandas, seaborn y matplotlib.
 
 ## Contenido del repositorio
-El repositorio tiene una carpeta llamada "DATA" con la base original (tanto la referida al hogar como la individual) y la base limpia con la que se trabaja para la presentación de los datos (los tres archivos en formato .xlsx). También se encuentran este archivo y la notebook con la que se trabajó para el análisis.
+El repositorio tiene una carpeta llamada "DATA" con la base original (tanto la referida al hogar como la individual) y la base limpia con la que se trabaja para la presentación de los datos (los tres archivos en formato .xlsx) y una carpeta llamada "IMÁGENES" con las imágenes dispuestas en este resumen. También se encuentran este archivo y la notebook con la que se trabajó para el análisis.
 
 ## Conclusiones del análisis
 Respecto al cruce que se hizó de los grupos por sexo, cabe mencionar que, si bien no sería extraño que las mujeres sean las más subocupadas (por discriminación y prejuicios a la hora de contratar y por la mayor cantidad de horas que le dedican a trabajos de cuidado no remunerados por fuera del mercado laboral), desde los 90' en Argentina se viene dando un fenómeno particular: el aumento de la subocupación, y de otro tipo de situaciones de precarización, entre grupos antes excentos de estas. Con la transformación del mercado laboral y de la estructura económica que se dió en los 90', y la consecuente caída de la demanda laboral, la subocupación pasó a ser un fenómeno que atañe también a los históricos "jefes de hogar" (Beccaria, 2003).  
